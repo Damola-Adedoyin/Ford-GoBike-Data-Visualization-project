@@ -1,5 +1,5 @@
 # Ford GoBike System Data Exploration
-## by Adedamola Adedoyin
+## by Damola Adedoyin
 
 
 ## Dataset
