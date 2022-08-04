@@ -1,6 +1,7 @@
 # Ford GoBike System Data Exploration
 ## by Damola Adedoyin
 
+NOTE: view the codes (data wrangling and exploration) in the `` file and the final presenation (data explanation) in the `` file above.
 
 ## Dataset
 
